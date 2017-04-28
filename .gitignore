@@ -1,8 +1,6 @@
-# Personal tests #
-##################
-PrefixTest/
-UnitTests/
-
+# Sublime Text #
+*.sublime-*
+releases/
 # Compiled source #
 ###################
 *.com
